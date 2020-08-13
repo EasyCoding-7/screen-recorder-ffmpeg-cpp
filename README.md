@@ -1,5 +1,15 @@
 # screen-recorder-ffmpeg-cpp
 
+## 개인 Comment
+
+* Video Capture and Recording
+
+### Todo
+
+- [ ] Audio Capture 기능 추가
+
+---
+
 ## DESCRIPTION
 **screen-recorder-ffmpeg-cpp** is an application to record a desktop (x11).
 
